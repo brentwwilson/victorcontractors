@@ -1,5 +1,5 @@
-import React from 'react';
-import { graphql, StaticQuery } from 'gatsby';
+import React from "react";
+import { graphql, StaticQuery } from "gatsby";
 
 const SubFooter = props => (
   <div className="sub-footer-strip">
@@ -13,16 +13,12 @@ const SubFooter = props => (
                 {props.data.site.siteMetadata.contact.phone}
               </li>
               <li>
-                <strong>Email: </strong>
-{' '}
-                <a href={`mailto:${props.data.site.siteMetadata.contact.email}`}>
+                <strong>Email: </strong>{" "}
+                <a
+                  href={`mailto:${props.data.site.siteMetadata.contact.email}`}
+                >
                   {props.data.site.siteMetadata.contact.email}
                 </a>
-              </li>
-            </ul>
-            <ul>
-              <li>
-                <a href="https://www.zerostatic.io">www.zerostatic.io</a>
               </li>
             </ul>
           </div>

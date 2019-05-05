@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 280 100" style="enable-background:new 0 0 280 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#F78620;stroke:#F78620;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_1_);stroke:#F78620;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_2_);stroke:#F78620;stroke-miterlimit:10;}
+	.st4{fill:url(#SVGID_3_);stroke:#F78620;stroke-miterlimit:10;}
+	.st5{fill:none;}
+	.st6{font-family:'CenturyGothic-Bold';}
+	.st7{font-size:44px;}
+	.st8{font-family:'Swiss721BT-Black';}
+	.st9{font-size:21px;}
+	.st10{font-family:'Revit_HEB_DWG';}
+</style>
+<path class="st0" d="M64.3,2.4"/>
+<path class="st0" d="M90.8,68.5"/>
+<polygon class="st1" points="12.2,16.7 38.4,81.7 44.5,81.7 19.2,16.7 "/>
+<polygon class="st1" points="21,16.7 46.6,81.7 52.5,81.7 27.8,16.7 "/>
+<polygon class="st1" points="29.7,16.7 54.4,81.7 60.1,81.7 36.3,16.7 "/>
+<polygon class="st1" points="38.2,16.7 62.1,81.7 67.7,81.7 44.6,16.7 "/>
+<polygon class="st1" points="57.7,46.2 67.9,16.7 98.7,16.7 73.2,81.7 69.8,81.7 "/>
+<path class="st1" d="M11.8,16.7"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="11.8333" y1="16.7432" x2="11.8333" y2="16.7432">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st2" d="M11.8,16.7"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="12.2464" y1="13.6599" x2="12.2464" y2="13.6599">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st3" d="M12.2,13.7"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="21.3333" y1="13.6599" x2="21.3333" y2="13.6599">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st4" d="M21.3,13.7"/>
+<rect x="107.4" y="21.4" class="st5" width="177.6" height="67.3"/>
+<text transform="matrix(1 0 0 1 107.3714 53.7937)"><tspan x="0" y="0" class="st6 st7">VICTOR</tspan><tspan x="158.4" y="0" class="st8 st9"> </tspan><tspan x="0" y="25.2" class="st10 st9">CONTRACTORS</tspan></text>
+</svg>
